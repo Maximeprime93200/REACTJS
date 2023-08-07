@@ -2,8 +2,10 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/[artist]": "pages/[artist].js",
   "/": "pages/index.js",
+  "/api/addSong": "pages/api/addSong.js",
   "/edit/[artist]": "pages/edit/[artist].js",
-  "/api/artists/[artist]": "pages/api/artists/[artist].js"
+  "/api/artists/[artist]": "pages/api/artists/[artist].js",
+  "/[artist]": "pages/[artist].js",
+  "/api/deleteSong/[id]": "pages/api/deleteSong/[id].js"
 }
