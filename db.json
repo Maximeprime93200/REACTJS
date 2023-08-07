@@ -1,3 +1,24 @@
 {
-  "todos": []
+  "searchs": [
+    {
+      "id": "1691345687097",
+      "artist": "Ninho",
+      "trackName": "La vie qu'on mène",
+      "playcount": "269990",
+      "listeners": "24598",
+      "url": "https://www.last.fm/music/Ninho/_/La+vie+qu%27on+m%C3%A8ne",
+      "genre": "Hip-Hop",
+      "note": "4"
+    },
+    {
+      "id": "1691346249479",
+      "artist": "Kanye West",
+      "trackName": "Stronger",
+      "playcount": "15899242",
+      "listeners": "2050189",
+      "url": "https://www.last.fm/music/Kanye+West/_/Stronger",
+      "genre": "Hip-Hop",
+      "note": "7"
+    }
+  ]
 }

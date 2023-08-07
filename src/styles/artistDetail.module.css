@@ -1,0 +1,80 @@
+/* artistDetail.module.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set the container height to the full viewport height */
+  }
+
+.artistInfo {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  text-align: center;
+}
+
+.artistName {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.genre,
+.listeners,
+.trackName,
+.playcount {
+  font-family: 'Montserrat', sans-serif;
+  margin: 5px 0;
+}
+
+.youtubeVideo {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.videoTitle {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.noVideo {
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 0;
+}
+
+.notFound {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.notFoundTitle {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.notFoundText {
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 0;
+}
+.backArrowWrapper {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+  }
+  
+  .backArrow {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
